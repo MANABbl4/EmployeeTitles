@@ -1,0 +1,35 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+.vs/
+.idea/
+packages/
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+lib/
+build/
+TestResults/
+MSBuild.ExtensionPack/
+src/packages/
+artifacts/
+build-utils/
+coverage-reports/
+test-reports/
+lib/
+tmp/
+.sonar/
+*.nupkg
+UpgradeLog.htm
